@@ -1,4 +1,4 @@
-package seq_list
+package extreme_val_
 
 import "sort"
 

@@ -1,4 +1,4 @@
-package seq_list
+package extreme_val_
 
 // https://leetcode.cn/problems/max-consecutive-ones/
 func findMaxConsecutiveOnes(nums []int) int {
